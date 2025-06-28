@@ -178,7 +178,7 @@
 
 .reservation__form {
   margin: 0 auto;
-  max-width: 385px;
+  
 }
 
 .form {
@@ -230,6 +230,14 @@
   width: 20px;
   height: 20px;
   align-items: center;
+}
+
+.form__label{
+  display: flex;
+  gap: 12px;
+  align-items: center;  
+
+
 }
 
 .form__label_type_checkbox {
