@@ -17,6 +17,11 @@
     max-width: 780px;
     display: flex;
     justify-content: center;
+     font-family: "Inter",Arial, sans-serif;  
+font-weight: 500; 
+font-size: 44px; 
+line-height: 52px;
+align-items: center;
     
     
 }
@@ -27,6 +32,10 @@
     align-items: center;
     display: flex;
     justify-content: center;
+     font-family: "Noto Serif",'Times New Roman', serif; 
+ font-weight: normal; 
+font-size: 20px; 
+line-height: 30px;
     
    
    
@@ -41,8 +50,12 @@
     flex-wrap: wrap;
     gap: 100px;
     display: flex;
-    justify-content: center;
-     
+    font-family: "Noto Serif",'Times New Roman', Times, serif; 
+font-style: normal; 
+font-weight: normal; 
+font-size: 16px; 
+line-height: 20px;
+  
    
 }
 

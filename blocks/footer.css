@@ -16,6 +16,8 @@ width:105px;
 height: 39px;
 }
 
+
+
 .footer__column-heading{
 margin: 0 0 20px;
 
@@ -26,7 +28,7 @@ margin: 0 0 20px;
     padding: 0;
     list-style-type: none;
     display: flex;
-    flex-direction: gap;
+    flex-direction: column;
 
 }
 
@@ -36,6 +38,7 @@ margin: 0 0 20px;
     display: flex;
     align-items: center;
     cursor: pointer;
+
     }
 
     .footer__social-link:hover{
@@ -47,6 +50,7 @@ color: #c1c1c1;
         width: 16px;
         height: 16px;
         margin-right: 10px;
+        
 
     }
 
